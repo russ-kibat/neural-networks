@@ -1,4 +1,8 @@
 data
 *.gdoc
+model_output/
+615_import_firefox_session.py
+*.txt
+pres_model.ipynb
 
 
